@@ -1,0 +1,7 @@
+【2022-08-28 17:44:11】
+订单号：20220828174351555698
+通知地址：http://143.92.58.230:8755/Pay_Charges_notify.html
+通知报文：memberid=10001&orderid=C20220828174351155443&transaction_id=20220828174351555698&amount=5.0000&datetime=20220828174411&returncode=00&sign=1F020E6F43AE4BCFAA84EC8385E3E98A&attach=
+HTTP状态：
+返回：OK
+
